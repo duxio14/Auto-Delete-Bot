@@ -13,7 +13,7 @@ Run the script using `node index.js`, and it will log into your Discord accounts
 ## Project Structure
 
 The project consists of the following files:  
-- `script.js`: The main script.  
+- `index.js`: The main script.  
 - `tokens.txt`: A file containing the list of bots to be deleted.  
 - `.env`: A file for storing environment variables.  
 - `README.md`: Documentation.  
