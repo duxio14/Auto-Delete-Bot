@@ -8,7 +8,7 @@ The script logs into Discord accounts using provided credentials, deletes bots b
 
 To use this script, clone the repository and navigate to the project folder. Install the required dependencies with `npm install playwright`. Create a `.env` file in the project directory and add your Discord password using the format `DISCORD_PASSWORD=your_password`. Prepare a `tokens.txt` file listing your bot tokens, IDs, and emails in the format `token:bot_id:email`. 
 
-Run the script using `node script.js`, and it will log into your Discord accounts, delete the bots listed in `tokens.txt`, and update the file by removing processed bots. 
+Run the script using `node index.js`, and it will log into your Discord accounts, delete the bots listed in `tokens.txt`, and update the file by removing processed bots. 
 
 ## Project Structure
 
