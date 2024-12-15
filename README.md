@@ -27,6 +27,6 @@ Ensure you have **Node.js** (version 14 or higher) and **npm** installed. The Pl
 
 Please respect Discord's terms of service. Use this script only for managing your own accounts and bots. Any misuse of this tool that violates Discord's policies may result in penalties. Do not share your credentials and always use secure accounts.
 
-For questions or suggestions, feel free to reach out on [GitHub](https://github.com/your-profile).  
-**Author**: Ali  
+For questions or suggestions, feel free to reach out on [GitHub](https://github.com/duxio14).  
+**Author**: duxio  
 _"Automate today to simplify tomorrow."_  
